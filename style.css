@@ -1,5 +1,5 @@
 body{
-    background-image: url(paisaje.jpg);
+    background-image: url(lluvia-gifmaniacos.es-2.gif);
     height: 100vh; 
     background-size: cover;
 }
@@ -17,12 +17,12 @@ div.row{
 div.contain{
     margin-top: 170px;
 }
-h2{
-    color: rgb(225, 17, 17);
-}
+
 h2:hover{
         background-color: black;
         color: gold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 100px;
 }
 body nav div.container-fluid{
     background-color: rgb(32, 226, 161);
