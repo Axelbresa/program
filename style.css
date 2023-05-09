@@ -17,11 +17,11 @@ body{
 }
 footer{
 background-color: rgb(32, 226, 161);
-color: aliceblue;
+color: black;
 padding-top: 20px;
 margin-top:500px;
-text-align: center;}
-
+text-align: center;
+}
 div.row{
     font-size: 80px;
     color: rgb(200, 255, 0);
@@ -32,6 +32,8 @@ div.contain{
 h1{
     font-family: cursive;
     color: gold;
+    font-size: 100PX
+    ;
 }
 h2{
 font-family: fantasy;
@@ -53,5 +55,5 @@ body nav div.container-fluid{
 }
 
 .card-img-top {
-    height: 200px;
+    height: 250px;
 }
