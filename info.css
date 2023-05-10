@@ -34,4 +34,7 @@ footer{
     body nav div.container-fluid{
         background-color: rgb(32, 226, 161);
 }
+img:hover{
+    opacity: 0.2;
+    }
 
