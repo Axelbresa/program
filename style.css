@@ -4,12 +4,7 @@ body{
     background-size: cover;
     color: lightcyan;
 }
-.info {
-    background-image: url(nieve.gif);
-    height: 100vh; 
-    background-size: cover;
-    color: lightcyan;
-}
+
 .fondo{
     background-image: url(FUEGOS.gif);
     height: 100vh; 
@@ -52,8 +47,17 @@ body nav div.container-fluid{
 
 .card-text {
     font-size: 1.5rem;
+    border: 10PX SOLID crimson;
 }
-
+.card-title{
+    border: 10PX SOLID crimson;
+}
+.card-body{
+    border: solid 10PX crimson;
+    background-color: rgb(7, 1, 22);
+    color: white;
+}
 .card-img-top {
     height: 250px;
+    border: 10PX SOLID crimson;
 }
